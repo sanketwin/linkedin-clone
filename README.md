@@ -6,7 +6,7 @@ Clone the project using git clone
 
 CD to your clonned files
 Then run 
-npm install
+### `npm install`
 
 In the project directory, you can run:
 
