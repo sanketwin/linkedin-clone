@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Clone the project using git clone 
+Clone the project using ### `git clone https://github.com/sanketwin/linkedin-clone.git`
 
 CD to your clonned files
 Then run 
